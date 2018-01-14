@@ -1,0 +1,14 @@
+$ mkdir GitHubRepoAssignment
+$ cd GitHubRepoAssignment/
+$ git init
+$ touch readme.md
+$ git status
+$ git add .
+$ git commit -m "addedreadme.md file"
+$ git status
+$ git remote add origin https://github.com/kmuru5130/-GitHubRepoAssignment.git
+$ git push -u origin master
+
+
+
+
